@@ -1,5 +1,5 @@
 <h2 align="center"> Hey 👋, I'm Adrien</h2>
-<h3 align="center"> A junior fullstack developer with focus on business and marketing that I developed over my studies and past experiences. </h3>
+<h3 align="center"> A junior full stack developer with focus on business and marketing that I developed over my studies and past experiences. </h3>
 
 - 🌱 Recently graduated from **Le Wagon web development bootcamp**
 
