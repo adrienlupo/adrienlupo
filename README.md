@@ -1,12 +1,12 @@
 <h2 align="center"> Hey 👋, I'm Adrien</h2>
 
-- 🌱 Recently graduated from **Le Wagon web development bootcamp**
+🌱 Recently graduated from **Le Wagon web development bootcamp**
 
-- 📱 My first project from Le Wagon [https://www.keiro.run/](https://www.keiro.run/)
+📱 My first project from Le Wagon [https://www.keiro.run/](https://www.keiro.run/)
 
-- 📚 Currently learning **react** and improving my **Ruby on Rails** skills 
+📚 Currently learning **react** and improving my **Ruby on Rails** skills 
 
-- 📫 Reach me : **adrien.lupo@protonmail.com**
+📫 Reach me : **adrien.lupo@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
