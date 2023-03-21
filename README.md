@@ -1,5 +1,5 @@
-<h2 align="center">Hi 👋, I'm Adrien</h2>
-<h3 align="center"> I am an enthusiast fullstack developer with focus on business and marketing that I developed over my studies and past experiences. </h3>
+<h2 align="center"> Hey 👋, I'm Adrien</h2>
+<h3 align="center"> An enthusiast fullstack developer with focus on business and marketing that I developed over my studies and past experiences. </h3>
 
 - 🌱 Recently graduated from **Le Wagon web development bootcamp**
 
