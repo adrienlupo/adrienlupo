@@ -2,9 +2,9 @@
 
 🌱 Recently graduated from **Le Wagon web development bootcamp**
 
-📱 My first project from Le Wagon [https://www.keiro.run/](https://www.keiro.run/)
+📱 My first pedagogic project from Le Wagon [https://www.keiro.run/](https://www.keiro.run/)
 
-📚 Currently learning **react** and improving my **Ruby on Rails** skills 
+📚 Currently learning **React** and improving my **Ruby on Rails** & **Javascript** skills 
 
 📫 Reach me : **adrien.lupo@protonmail.com**
 
