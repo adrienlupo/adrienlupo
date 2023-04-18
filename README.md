@@ -1,11 +1,3 @@
-<h2 align="center"> Hey 👋, I'm Adrien</h2>
-
-🌱 Recently graduated from **Le Wagon web development bootcamp**
-
-📱 My first pedagogic project from Le Wagon [https://www.keiro.run/](https://www.keiro.run/)
-
-📚 Currently learning **React** and improving my **Ruby on Rails** & **Javascript** skills 
-
 📫 Reach me : **adrien.lupo@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
